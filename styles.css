@@ -157,8 +157,6 @@
   #randibox {
     height: 50%;
     width: 80%;
-    background-color: #ffffff;
-
     display: flex;
     flex-direction: column;
   }
